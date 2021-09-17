@@ -20,6 +20,7 @@ I have used JSON file system for it.
 * Purchase for customers
 
 ## About me
-
+I am GOKUL B BTECH in branch of Computer Technology .Learning Artificial intelegence ,Machine learning ,Computer Vision to utilze in the field of Robotics
 
 # Profile
+https://www.linkedin.com/in/gokul-b-0277511a6/
